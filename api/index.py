@@ -1,0 +1,1 @@
+from hms_project.wsgi import application 
